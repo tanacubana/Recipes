@@ -1,9 +1,8 @@
 # Ingredients
 - avocado
-- lemon 
+- lime
 - salt
 - pepper
-- herbs
+- coriander
 
 # Instructions
-
