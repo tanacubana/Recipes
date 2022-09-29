@@ -6,4 +6,3 @@
 - coriander $0.06
 
 # Instructions
-1. mash
